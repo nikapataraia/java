@@ -1,5 +1,3 @@
-import javax.print.event.PrintEvent;
-
 public class IntDoubleList {
     private IntDoubleListElement head;
     private IntDoubleListElement tail;
